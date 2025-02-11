@@ -7,7 +7,7 @@ export function First() {
     const [noOfImages, setNoOfImages] = useState(0);
     const navigate = useNavigate();
 
-    return <div className="flex min-w-screen min-h-screen justify-center items-center bg-[#F4F8D3]">
+    return <div className="flex w-full h-full justify-center items-center bg-[#F4F8D3]">
         <div className="flex-col">
 
             <div className="text-center text-6xl font-rollingBeat p-8 pb-4 text-[#FF76CE]">
