@@ -20,11 +20,11 @@ export function First() {
 
             <div className="flex flex-col justify-center items-center min-w-[200px]">
                 <div className="flex h-auto justify-center mb-2">
-                    <img src="./src/assets/her/first.jpg" alt="firstImage" hidden={noOfImages != 0} className="w-50 h-90 rounded-md mx-4"/>
+                    <img src="/assets/her/first.jpg" alt="firstImage" hidden={noOfImages != 0} className="w-50 h-90 rounded-md mx-4"/>
                     
-                    <img src="./src/assets/her/second.jpg" alt="secondImage"  hidden={noOfImages != 1} className="w-50 h-90 rounded-md"/>
+                    <img src="/assets/her/second.jpg" alt="secondImage"  hidden={noOfImages != 1} className="w-50 h-90 rounded-md"/>
                     
-                    <img src="./src/assets/her/third.jpg" alt="thirdImage" hidden={noOfImages != 2} className="w-55 h-90 rounded-md mx-4"/>
+                    <img src="/assets/her/third.jpg" alt="thirdImage" hidden={noOfImages != 2} className="w-55 h-90 rounded-md mx-4"/>
                 </div>
                 <div className="flex justify-around w-[400px] py-4">
                     <button type="button" className="focus:outline-none text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800" onClick={() => {

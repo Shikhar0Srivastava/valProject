@@ -22,7 +22,7 @@ export function Propose() {
             </div>
             
             <div className="flex justify-center">
-                <img src="../src/assets/bubuDudu/lieOnTop.png" alt="lieOnTop" className="w-[150px] h-[150px]"/>
+                <img src="/assets/bubuDudu/lieOnTop.png" alt="lieOnTop" className="w-[150px] h-[150px]"/>
             </div>
 
             <div className="p-8 text-3xl text-center font-firstHead">
