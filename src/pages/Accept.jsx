@@ -5,7 +5,7 @@ export function Accept() {
                 Yayy!!!!
             </div>
             <div className="flex justify-center p-4">
-                <img src="../src/assets/bubuDudu/HVD.png" alt="hvd" className="w-[230px] h-[200px]" />
+                <img src="../src/assets/bubuDudu/hvd.png" alt="hvd" className="w-[230px] h-[200px]" />
             </div>
             <div className="font-firstHead text-center p-4 text-3xl">
                 I love you bachha❤️
