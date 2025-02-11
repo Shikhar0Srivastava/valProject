@@ -15,7 +15,7 @@ export function Propose() {
     setShowPopup(!showPopup);
     };
 
-    return <div className="flex min-w-screen min-h-screen justify-center items-center bg-[#F4F8D3]">
+    return <div className="flex min-w-screen min-h-screen justify-center items-center p-2 bg-[#F4F8D3]">
         <div className="flex-col">
             <div className="text-8xl text-center font-firstHead text-[#FF76CE] font-bold p-8 mt-8">
                 Hemlo Baby
