@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'beautifulDream';
+    src: url('../src/fonts/Beautiful\ Dream.otf');
+}
+
+@font-face {
+    font-family: 'havana';
+    src: url('../src/fonts/Havana.ttf');
+}
+
+@font-face {
+    font-family: 'rollingBeat';
+    src: url('../src/fonts/Rolling\ Beat_Personal\ Use.ttf');
+}
+@theme {
+    --font-firstHead: 'beautifulDream', 'sans-serif';
+    --font-havana: 'havana', 'serif'; 
+    --font-rollingBeat: 'rollingBeat', 'sans';
+}
