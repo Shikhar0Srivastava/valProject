@@ -4,7 +4,7 @@ export function NoPopup({clicked}) {
     return <>
         <div className="fixed top-0 left-0 w-full h-full bg-black/50 flex justify-center items-center z-50">
           <div className="bg-white p-6 rounded-lg shadow-md min-w-[300px] flex-col flex justify-center"> {/* min-w to set a minimum width */}
-            <img src="/assets/bubuDudu/bubu-no.gif" alt="" />
+            <img src="/assets/bubuDudu/bubu-no.gif" alt="no no no" />
 
             <div className="font-firstHead text-center font-semibold text-2xl p-4">
               {"No No No."}
